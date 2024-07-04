@@ -1,0 +1,8 @@
+numpy
+pandas
+crewai
+crewai[tools]
+openai
+langchain_community
+pypandoc
+tempfile
